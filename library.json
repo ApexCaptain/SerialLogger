@@ -1,0 +1,21 @@
+{
+    "name": "SerialLogger",
+    "version": "1.0.0",
+    "description": "A Platform IO library for simple logging",
+    "keywords": "serial, log, output",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/ApexCaptain/SerialLogger"
+    },
+    "authors":
+    [
+      {
+        "name": "SangHun Lee",
+        "email": "ayteneve93@gmail.com"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+  }
